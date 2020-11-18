@@ -8,6 +8,6 @@
  
 > Today I'm going to tell about my favourite dish
  
- #### **My Favourite dish is _ Rajma Chawal**..  *I wanna share the [recipe]()_ and [ingredients]()_ which are required*
+ #### **My Favourite dish is _ Rajma Chawal**..  *I wanna share the [recipe](https://krishnamnuwal.github.io/Favourite-Dish/recipie.md)_ and [ingredients]()_ which are required*
  ---
  ---
